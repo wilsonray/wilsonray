@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wilsonray
+- 👋 Hi, I’m Wilson Ray
 - 👀 I’m interested in data analysis, mining and visualization
 - 🌱 I’m currently learning the current technologies such as SQL, R
 - 💞️ I’m looking to collaborate on Data science or analytics projects
